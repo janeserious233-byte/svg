@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="400" height="300"
+     viewBox="0 0 400 300"
+     role="img" aria-label="xiaban stacked images (scrollable)">
+  <!--
+    说明：
+    - 当前 SVG 固定为 400x300（请将 width 和 height 替换为 xiaban_01.gif 的实际像素宽高）
+    - 内部使用 foreignObject 放入一个可滚动的 XHTML div，div 中按顺序垂直排列 10 张图片
+    - 每张图片样式为 width:100%（会按容器宽度缩放），并且 display:block 去掉间隙
+    - 注意：GitHub 的 blob 页面可能会过滤 foreignObject，若预览不可见请用 raw.githubusercontent.com 链接或把 SVG 内联到你的页面
+  -->
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <body xmlns="http://www.w3.org/1999/xhtml" style="margin:0">
+      <div style="
+            width:100%;
+            height:100%;
+            box-sizing:border-box;
+            overflow-y:auto;
+            -webkit-overflow-scrolling:touch;
+            scrollbar-width: thin;
+            background:#fff;
+            ">
+        <!-- 把下面的 URL 保持为 raw.githubusercontent.com 的原始文件 URL -->
+        <img src="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_01.gif" style="width:100%; display:block; margin:0; padding:0;" alt="xiaban_01" />
+        <img src="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_02.gif" style="width:100%; display:block; margin:0; padding:0;" alt="xiaban_02" />
+        <img src="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_03.gif" style="width:100%; display:block; margin:0; padding:0;" alt="xiaban_03" />
+        <img src="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_04.gif" style="width:100%; display:block; margin:0; padding:0;" alt="xiaban_04" />
+        <img src="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_05.gif" style="width:100%; display:block; margin:0; padding:0;" alt="xiaban_05" />
+        <img src="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_06.gif" style="width:100%; display:block; margin:0; padding:0;" alt="xiaban_06" />
+        <img src="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_07.gif" style="width:100%; display:block; margin:0; padding:0;" alt="xiaban_07" />
+        <img src="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_08.gif" style="width:100%; display:block; margin:0; padding:0;" alt="xiaban_08" />
+        <img src="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_09.gif" style="width:100%; display:block; margin:0; padding:0;" alt="xiaban_09" />
+        <img src="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_10.gif" style="width:100%; display:block; margin:0; padding:0;" alt="xiaban_10" />
+      </div>
+    </body>
+  </foreignObject>
+</svg>
