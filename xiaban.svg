@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="1200" viewBox="0 0 300 1200" role="img" aria-label="xiaban">
-  <rect width="100%" height="100%" fill="#fff"/>
-  <!-- 使用 SVG-native <image>，按顺序垂直排列（height 每张示例设为120） -->
-  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_01.gif" x="0" y="0" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
-  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_02.gif" x="0" y="120" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
-  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_03.gif" x="0" y="240" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
-  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_04.gif" x="0" y="360" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
-  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_05.gif" x="0" y="480" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
-  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_06.gif" x="0" y="600" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
-  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_07.gif" x="0" y="720" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
-  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_08.gif" x="0" y="840" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
-  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_09.gif" x="0" y="960" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
-  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_10.gif" x="0" y="1080" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="300"
+     height="1200"
+     viewBox="0 0 300 1200"
+     role="img"
+     aria-label="xiaban">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <!-- 每张 GIF 高度 120 垂直排列；根据实际 GIF 大小可调整 height 与 viewBox -->
+  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_01.gif" x="0"   y="0"   width="300" height="120" preserveAspectRatio="xMidYMid slice" />
+  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_02.gif" x="0"   y="120" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
+  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_03.gif" x="0"   y="240" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
+  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_04.gif" x="0"   y="360" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
+  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_05.gif" x="0"   y="480" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
+  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_06.gif" x="0"   y="600" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
+  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_07.gif" x="0"   y="720" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
+  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_08.gif" x="0"   y="840" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
+  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_09.gif" x="0"   y="960" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
+  <image href="https://raw.githubusercontent.com/janeserious233-byte/svg/main/xiaban_10.gif" x="0"   y="1080" width="300" height="120" preserveAspectRatio="xMidYMid slice" />
 </svg>
